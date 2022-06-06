@@ -1,5 +1,5 @@
 require 'date'
-class Parser
+class PseudoDateParser
   
   AMERICAN_DATE_FORMAT = '%m/%d/%Y'
   EUROPEAN_DATE_FORMAT = '%Y-%m-%d'
